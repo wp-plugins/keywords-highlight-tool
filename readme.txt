@@ -12,7 +12,7 @@ highlight the keywords if visitor is from search engine
 
 this highlighter has the following features:
 
-*   works in fronted by using javascript ,so it has almost no pressure on the server side
+*   works in frontend by using javascript ,so it has almost no pressure on the server side
 *   support cache plugin
 *   support UTF-8,GBK and GB2312 encoding search engine (eg:google.com,baidu.com)
 
