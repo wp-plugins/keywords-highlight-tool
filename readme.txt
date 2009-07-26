@@ -4,7 +4,7 @@ Donate link: http://bluehua.org
 Tags: highlighter,google,baidu,keywords 
 Requires at least: 2.0.0
 Tested up to: 2.8.2
-Stable tag: 0.1 
+Stable tag: 0.1.1 
 
 highlight the keywords if visitor is from search engine
 
@@ -35,7 +35,8 @@ eg:sites.push(['otherengine.com','query_param']);
 1.  `/tags/0.1/screenshot-1.png` 
 
 == Changelog ==
-
+= 0.1.1 =
+* fix path 404 error for wp auto build zip package
 = 0.1 =
 * the first version 
 
