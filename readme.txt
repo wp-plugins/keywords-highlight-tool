@@ -3,7 +3,7 @@ Contributors: emptyhua
 Donate link: http://bluehua.org
 Tags: highlighter,google,baidu,keywords 
 Requires at least: 2.0.0
-Tested up to: 2.8.3
+Tested up to: 2.8.4
 Stable tag: 0.1.1 
 
 highlight the keywords if visitor is from search engine
