@@ -166,6 +166,8 @@
 		var ks = null;
         var sites = [
             ['google', 'q'],
+            ['bing.com', 'q'],
+            ['youdao.com', 'lq'],
             ['baidu.com', 'wd'],
             ['yahoo', 'p']
         ];
