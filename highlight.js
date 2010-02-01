@@ -42,7 +42,8 @@
 
                     if(childObj.data==objResult.innerHTML) continue;
                         obj.replaceChild(objResult,childObj);                                    
-                }else if(childObj.nodeType==1 && childObj.tagName.toLowerCase() != 'script' ){
+                }else if(childObj.nodeType==1 && !/^(script|style|input|textarea)$/.test(childObj.tagName.toLowerCase()) ){
+
                     MarkHighLightCore(childObj,keyWords);
                 }
             }

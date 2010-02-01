@@ -4,7 +4,7 @@ Donate link: http://bluehua.org
 Tags: highlighter,google,baidu,keywords 
 Requires at least: 2.0.0
 Tested up to: 2.9.1
-Stable tag: 0.1.2 
+Stable tag: 0.1.3
 
 highlight the keywords if visitor is from search engine
 
@@ -35,6 +35,8 @@ eg:sites.push(['otherengine.com','query_param']);
 1.  `/tags/0.1/screenshot-1.png` 
 
 == Changelog ==
+= 0.1.3 =
+* bug fix : don't highlight the input elements
 = 0.1.2 =
 * add support for bing.com and youdao.com
 * add index.html for preventing the autoIndex

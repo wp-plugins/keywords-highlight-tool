@@ -4,11 +4,11 @@ Plugin Name: Search engine keywords highlighter
 Plugin URI: http://bluehua.org/2009/07/22/333.html 
 Description: highlight the keywords if the visitor is from search engine 
 Author: emptyhua@gmail.com
-Version: 0.1.2
+Version: 0.1.3
 Author URI: http://bluehua.org
 */
 
-define( 'BLUE_KEYWORDS_HIGHLIGHT_VER', '0.1.2' );
+define( 'BLUE_KEYWORDS_HIGHLIGHT_VER', '0.1.3' );
 
 function blue_kh_init()
 {
